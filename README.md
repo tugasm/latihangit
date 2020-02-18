@@ -47,3 +47,15 @@ Untuk info selengkapnya : [Klik Disini](https://www.google.com/)
 
 Mr. X berkata : 
  >  Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
+
+Untuk mencetak teks pada bahasa pemrograman python dengan menggunakan perintah `print()`
+
+```python
+x = [1,2,3]
+For i in x:
+    print('lalala')
+```
+
+```bash
+$ git commit -m "tes"
+```
