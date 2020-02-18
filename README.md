@@ -59,3 +59,9 @@ For i in x:
 ```bash
 $ git commit -m "tes"
 ```
+
+No. | Nama | Usia
+-|-|-
+1.|Andi|21 Tahun
+2.|Budi|25 Tahun
+3.|Caca|19 Tahun
