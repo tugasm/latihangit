@@ -16,3 +16,17 @@ __ini bold__
 __*ini italic bold*__
 
 _**ini italic bold**_
+
+Daftar Belanja:
+-   Beras 1 kg
+-   Gula 5 kg
+-   Bumbu Dapur :
+    -   Lada 2 kg
+    -   Merica 5 kg
+
+Ranking:
+1. Andi
+2. Budi
+1. Students :
+    1. Caca
+    1. Deni
