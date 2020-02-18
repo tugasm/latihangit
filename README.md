@@ -30,3 +30,20 @@ Ranking:
 1. Students :
     1. Caca
     1. Deni
+
+Untuk info selengkapnya : [Klik Disini](https://www.google.com/)
+
+![logo real madrid](https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Real_Madrid_Club_de_F%C3%BAtbol.png/175px-Real_Madrid_Club_de_F%C3%BAtbol.png)
+<hr>
+<b>Ini Bold</b>
+
+<marquee>
+<img alt="logo pssi" src="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Real_Madrid_Club_de_F%C3%BAtbol.png/175px-Real_Madrid_Club_de_F%C3%BAtbol.png" width="30%">
+</marquee>
+
+ <hr>
+
+ #
+
+Mr. X berkata : 
+ >  Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
